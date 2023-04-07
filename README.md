@@ -1,5 +1,6 @@
 
 # Python Zero to Hero Edition 2023
+https://amzn.eu/d/4GdgSVY
 ![book-cover](https://user-images.githubusercontent.com/70679949/230531069-2e4cb75f-05b2-4a29-84f4-e213f205447b.jpg)
 
 Python Zero to Hero Edition 2023 is a comprehensive guide to learning Python, authored by Subhash Chandra Shukla, a seasoned software developer and data scientist. This e-book covers everything you need to know to become proficient in Python, from basic syntax and data types to advanced topics like multithreading and multiprocessing.
