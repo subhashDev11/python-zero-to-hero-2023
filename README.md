@@ -1,7 +1,7 @@
 
 # Python Zero to Hero Edition 2023
 
-https://read.amazon.in/kp/embed?asin=B0C1C9LNK4&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_F01138BGPSNFDDC3EQHV
+## https://amzn.eu/d/4GdgSVY
 
 ![book-cover](https://user-images.githubusercontent.com/70679949/230531069-2e4cb75f-05b2-4a29-84f4-e213f205447b.jpg)
 
